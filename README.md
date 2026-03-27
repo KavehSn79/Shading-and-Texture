@@ -24,7 +24,7 @@ All geometry is generated on the CPU, uploaded to **GPU attribute buffers**, and
 
 ### Screenshot
 
-![Rendered Scene](output.png)  
+![Rendered Scene](texture.png)  
 
 *Example: Cube with Checker texture and Phong shading.*
 
